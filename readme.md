@@ -12,6 +12,8 @@ Make sure the file is executable.
 ```
 chmod +x addgitkeep.sh
 ```
+Then simply run it in the directory you want to add the .gitkeeps files in.
+You can also add this as a function in your bash_profile which is very handy.
 
 ```
 ./addgitkeep.sh
