@@ -23,4 +23,4 @@ You can also add this as a function in your bash_profile which is very handy.
 * None at this time
 
 # Contribute
-You are welcome to fork and contribute to this project.
+You are welcome to submit a pull request with improvements.
